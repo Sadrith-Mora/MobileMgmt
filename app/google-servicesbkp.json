@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918005386588",
+    "firebase_url": "https://mobilemgmt-66028.firebaseio.com",
+    "project_id": "mobilemgmt-66028",
+    "storage_bucket": "mobilemgmt-66028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918005386588:android:97ccd814ed8fb841",
+        "android_client_info": {
+          "package_name": "adm.cristina.mobilemgmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918005386588-cvrv5ghv6adcq4cq5vbd4cmrtu09l8r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_OdUtM0BdAXHxxOuoxFDQjVReaui9Os"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918005386588-cvrv5ghv6adcq4cq5vbd4cmrtu09l8r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
